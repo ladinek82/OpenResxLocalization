@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Remove="Resources\Controllers\HomeController.cs-CZ.resx" />
+    <EmbeddedResource Remove="Resources\Controllers\HomeController.en-US.resx" />
+    <EmbeddedResource Remove="Resources\Views\Home\Index.cs-CZ.resx" />
+    <EmbeddedResource Remove="Resources\Views\Index.en-US.resx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Resources\Controllers\HomeController.cs-CZ.resx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Resources\Views\Home\Index.cs-CZ.resx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Views\Home\Index.en-US.resx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="OpenResxLocalizer\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Resources\Controllers\HomeController.en-US.resx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+
+
+</Project>
