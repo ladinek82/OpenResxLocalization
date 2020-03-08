@@ -25,10 +25,13 @@ For example:<br />
 - It is possible to use it in desktop applications, web applications (ASP.NET) and libraries.
 - I don't have an expirience with hosting the code on Linux. 
 
-<br/><br/><br/>
+<br/><br/>
 *I have look for on the Internet libraries, nugets and articles on blogs where somebody solves this issue but I can not find anything. I have to create my own solution and I hope it helps you. If you have a tip for improvment, you will write it. I will pleasere.*
+<br />
 
-## 
+## Tips for you
+- OpenResxResourceManager uses XDocument for finding a localized value, because I have found an article where somebody write. The XDocument is faster than XmlDocument. There is both impelementation (XDocument is used and XmlDocument is commented)
+- OpenResxResourceManager has only one constructor but other constructors are commented.
 
 
 
