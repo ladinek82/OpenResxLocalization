@@ -1,4 +1,4 @@
-# ![OpenResxLocalization](https://github.com/ladinek82/OpenResxLocalization)
+# [OpenResxLocalization](https://github.com/ladinek82/OpenResxLocalization)
 The code implements a localization in ASP.NET Core 3+ by non-compiled RESX file. 
 
 ## How to integrate the OpenResxLocalization in your project
