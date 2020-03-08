@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="-bIC5ENYcQn5ByB0RNNkYhpV3ctuqX1kRcf-oulF8EU" />
+
 # [OpenResxLocalization](https://github.com/ladinek82/OpenResxLocalization)
 The code implements a localization in ASP.NET Core 3+ by non-compiled RESX file. 
 
