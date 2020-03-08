@@ -20,4 +20,8 @@ For example:<br />
    
 5. It is all. 
    
-
+## My expirience with the OpenResxLocalizer
+- It works with all type of localizations: in Controllers, in Views and in DataAnnotations.
+- It is possible to use it in desktop applications, web applications (ASP.NET) and libraries.
+- I don't have an expirience with hosting the code on Linux. 
+- 
