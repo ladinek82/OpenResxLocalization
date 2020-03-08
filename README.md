@@ -1,7 +1,7 @@
 # OpenResxLocalization
 The code implements a localization in ASP.NET Core 3+ by non-compiled RESX file. 
 
-## How to integrate the OpenResxLocalizer in your project
+## How to integrate the OpenResxLocalization in your project
 1. Download a content of folder src and include the files into your project (change namespace ...)
 
 2. Initialization in `Startup.cs` in methode `ConfigureServices`
@@ -20,7 +20,7 @@ For example:<br />
    
 5. It is all. 
    
-## My expirience with the OpenResxLocalizer
+## My expirience with the OpenResxLocalization
 - It works with all type of localizations: in Controllers, in Views and in DataAnnotations.
 - It is possible to use it in desktop applications, web applications (ASP.NET) and libraries.
 - I don't have an expirience with hosting the code on Linux. 
