@@ -24,4 +24,11 @@ For example:<br />
 - It works with all type of localizations: in Controllers, in Views and in DataAnnotations.
 - It is possible to use it in desktop applications, web applications (ASP.NET) and libraries.
 - I don't have an expirience with hosting the code on Linux. 
-- 
+
+<br/><br/><br/>
+* I have look for on the Internet libraries, nugets and articles on blogs where somebody solves this issue but I can not find anything. I have to create my own solution and I hope it helps you. If you have a tip for improvment, you will write it. I will pleasere.*
+
+## 
+
+
+
