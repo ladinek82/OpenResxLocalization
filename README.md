@@ -15,7 +15,7 @@ For example:<br />
 
 4. Set properties of resx file
    - Build Action on Content
-   - Copy to Output Directory on Copy always <br />
+   - Copy to Output Directory on Copy always of on Copy if newer<br />
    ![resx properties](https://github.com/ladinek82/OpenResxLocalization/raw/master/images/resxProperties.png)
    
 5. It is all. 
