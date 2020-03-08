@@ -26,7 +26,7 @@ For example:<br />
 - I don't have an expirience with hosting the code on Linux. 
 
 <br/><br/><br/>
-* I have look for on the Internet libraries, nugets and articles on blogs where somebody solves this issue but I can not find anything. I have to create my own solution and I hope it helps you. If you have a tip for improvment, you will write it. I will pleasere.*
+*I have look for on the Internet libraries, nugets and articles on blogs where somebody solves this issue but I can not find anything. I have to create my own solution and I hope it helps you. If you have a tip for improvment, you will write it. I will pleasere.*
 
 ## 
 
